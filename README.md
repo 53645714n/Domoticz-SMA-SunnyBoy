@@ -15,6 +15,12 @@ sudo systemctl restart domoticz
 ```
 In the web UI, navigate to the Hardware page. In the hardware dropdown there will be an entry called "SMA Sunny Boy".
 
+Please note you need python dev for the plugin to work To install Python Dev
+```bash
+ sudo apt install python3-dev
+ ```
+ 
+
 ## Known issues
 
 ## Updating
